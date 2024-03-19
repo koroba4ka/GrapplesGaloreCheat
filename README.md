@@ -1,3 +1,3 @@
-под основу взял исходник https://github.com/Nnei/GrapplesGaloreHack
+под основу взял сурс: https://github.com/Nnei/GrapplesGaloreHack
 
-ничего крутого нету 
+обычный сурс для фана , есть баги
